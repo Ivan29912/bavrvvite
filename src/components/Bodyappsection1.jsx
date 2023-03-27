@@ -1,12 +1,14 @@
+import sectionJSON from "./json/bodySectionsData.json"
+
 
 const Bodyappsection1 = () => {
     return (
         <section className='section-inverter'>
             <picture>
-                <img className='img' src="..\..\img\home\tecnologia-inverter.jpg" alt='papa' />
+                {sectionJSON.map(sec => sec.section === "1" ? <img className='img' src={sec.img} alt='papa'/> : "") }
             </picture>
             <div className='div-inverter'>
-                <h5> Un nuevo concepto </h5>
+                <h5> {sectionJSON} </h5>
                 <h2>Una nueva generación <br /> de equipos de aire</h2>
                 <p>Somos expetos en aire acondicionado.<br /> Por eso, desarrollamos una opción ideal<br /> para cada tipo de aplicación.</p>
                 <div className='ul-list'>

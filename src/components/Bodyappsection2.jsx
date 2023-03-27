@@ -1,14 +1,13 @@
 import sectionJSON from "./json/bodySectionsData.json"
 
-
 const Bodyappsection2 = () => {
 
     return (
         <section className='section-vrv'>
             <div className='div-vrv'>
-                <h5> Menor consumo garantizado </h5>
-                <h2>Sistemas VRV <br />para el hogar y la oficina</h2>
-                <p>Somos creadores de la tecnología VRV,<br />la más eficiente del mercado. <br />Contamos con un modelo ideal para cada aplicación:</p>
+                <h5>{sectionJSON.map(sec => sec.section === "2" ? sec.concept : "")}</h5>
+                <h2>{sectionJSON.map(sec => sec.section === "2" ? sec.title : "")}</h2>
+                <p>{sectionJSON.map(sec => sec.section === "2" ? sec.slogan : "")}</p>
                 <div className='ul-list'>
                     <ul className='ul-list-a'>
                         <li>
@@ -49,7 +48,7 @@ const Bodyappsection2 = () => {
                 </div>
             </div>
             <picture>
-                {sectionJSON.map(sec => sec.section === "2" ? <img className='img' src={sec.img} alt='papa'/> : "") }
+                {sectionJSON.map(sec => sec.section === "2" ? <img className='img' src={sec.img} alt='papa' /> : "")}
             </picture>
         </section>
     )

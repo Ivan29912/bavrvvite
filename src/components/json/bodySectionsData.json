@@ -28,34 +28,44 @@
         "section": "2",
         "concept": "Menor consumo garantizado",
         "title": "Sistemas VRV <br/>para el hogar y la oficina",
-        "slogan": "Somos creadores de la tecnología VRV,<br />la más eficiente del mercado. <br />Contamos con un modelo ideal para cada aplicación:",
+        "slogan": "Somos creadores de la tecnología VRV, la más eficiente del mercado. Contamos con un modelo ideal para cada aplicación:",
         "img": "/img/home/sistemasVRV.jpg",
         "details": [
             [
-                "Heat pump: Sistema frío <br /> calor por bomba (8-60HP).",
-                "Heat pump: Sistema frío <br /> calor por bomba para <br /> reemplazo de R-22 / R-407 (8-48HP).",
-                "Heat pump: Sistema frío <br /> calor. Unidad exterior <br /> dividida para instalación <br /> interior (8HP).",
-                "Heat pump: Sistema frío <br /> calor. Unidad exterior <br /> dividida para instalación <br /> interior (8HP)."
+                [
+                    "VRVH",
+                    "Heat pump: Sistema frío calor por bomba (8-60HP)."
+                ],
+                [
+                    "VRVQ",
+                    "Heat pump: Sistema frío calor por bomba para reemplazo de R-22 / R-407 (8-48HP)."
+                ],
+                [
+                    "VRV Invisible",
+                    "Heat pump: Sistema frío calor. Unidad exterior dividida para instalación interior (8HP)."
+                ],
+                [
+                    "Hidrobox",
+                    "Heat pump: Sistema frío calor. Unidad exterior dividida para instalación interior (8HP)."
+                ]
             ],
             [
-                "Heat recovery: Sistema <br /> frío calor simultaneo (8- <br /> 60HP).",
-                "Heat pump: Sistema frío <br /> calor por bomba (4-9HP).",
-                "Heat pump: Sistema frío <br /> calor por bomba (8-60hp).",
-                "Manejadoras de aire DX <br /> (UTA) (8-54HP)."
-            ]
-        ],
-        "h3": [
-            [
-                "VRVH",
-                "VRVQ",
-                "VRV Invisible",
-                "Hidrobox"
-            ],
-            [
-                "VRVR",
-                "VRV Small",
-                "Altherma",
-                "Unidad de tratamiento"
+                [
+                    "VRVR",
+                    "Heat recovery: Sistema frío calor simultaneo (8- 60HP)."
+                ],
+                [
+                    "VRV Small",
+                    "Heat pump: Sistema frío calor por bomba (4-9HP)."
+                ],
+                [
+                    "Altherma",
+                    "Heat pump: Sistema frío calor por bomba (8-60hp)."
+                ],
+                [
+                    "Unidad de tratamiento",
+                    "Manejadoras de aire DX (UTA) (8-54HP)."
+                ]
             ]
         ]
     },
@@ -63,7 +73,7 @@
         "section": "3",
         "concept": "Departamento de servicios",
         "title": "Estamos para ayudarte",
-        "slogan": "Brindamos servicios de soporte técnico<br />a personal especializado y usuarios finales",
+        "slogan": "Brindamos servicios de soporte técnica personal especializado y usuarios finales",
         "img": "/img/home/maxima-eficiencia.jpg",
         "details": [
             [

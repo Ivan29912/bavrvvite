@@ -1,3 +1,5 @@
+import sectionJSON from "./json/bodySectionsData.json"
+
 
 const Bodyappsection2 = () => {
 
@@ -47,7 +49,7 @@ const Bodyappsection2 = () => {
                 </div>
             </div>
             <picture>
-                <img className='img' src="..\..\img\home\sistemasVRV.jpg" alt='papa' />
+                {sectionJSON.map(sec => sec.section === "2" ? <img className='img' src={sec.img} alt='papa'/> : "") }
             </picture>
         </section>
     )

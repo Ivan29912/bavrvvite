@@ -1,10 +1,10 @@
-
+import sectionJSON from "./json/bodySectionsData.json"
 
 const Bodyappsection3 = () => {
     return (
         <section className='section-eficiencia'>
             <picture>
-                <img className='img' src="..\..\img\home\maxima-eficiencia.jpg" alt='papa' />
+                {sectionJSON.map(sec => sec.section === "3" ? <img className='img' src={sec.img} alt='papa'/> : "") }
             </picture>
             <div className='div-eficiencia'>
                 <h5> Departamento de servicios </h5>

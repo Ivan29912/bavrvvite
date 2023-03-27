@@ -3,7 +3,6 @@ import './BodyApp.css'
 import Carrousel from './Carrousel';
 import Bodyappsection from './Bodyappsection';
 import Bodyappsection2 from './Bodyappsection2';
-import Bodyappsection3 from './Bodyappsection3';
 
 function Bodyapp() {
   return (

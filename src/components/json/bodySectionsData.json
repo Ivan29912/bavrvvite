@@ -1,0 +1,81 @@
+[
+    {
+        "section": "1",
+        "concept": "Un nuevo concepto",
+        "title": "Una nueva generación <br/> de equipos de aire",
+        "slogan": "Somos expetos en aire acondicionado.<br/> Por eso, desarrollamos una opción ideal<br/> para cada tipo de aplicación.",
+        "img": "../../../public/img/home/tecnologia-inverter.jpg",
+        "details": [
+            [
+                "Mini y Multi Split.",
+                "Cassette.",
+                "Baja silueta.",
+                "Rooftop.",
+                "Enfriadoras (chillers).",
+                "Manejadoras de aire."
+            ],
+            [
+                "Sistemas VRV.",
+                "Piso / Techo.",
+                "Calefactor.",
+                "Sistemas de control.",
+                "Sistemas aplicados.",
+                "Fan coils."
+            ]
+        ]
+    },
+    {
+        "section": "2",
+        "concept": "Menor consumo garantizado",
+        "title": "Sistemas VRV <br/>para el hogar y la oficina",
+        "slogan": "Somos creadores de la tecnología VRV,<br />la más eficiente del mercado. <br />Contamos con un modelo ideal para cada aplicación:",
+        "img": "../../../public/img/home/sistemasVRV.jpg",
+        "details": [
+            [
+                "Heat pump: Sistema frío <br /> calor por bomba (8-60HP).",
+                "Heat pump: Sistema frío <br /> calor por bomba para <br /> reemplazo de R-22 / R-407 (8-48HP).",
+                "Heat pump: Sistema frío <br /> calor. Unidad exterior <br /> dividida para instalación <br /> interior (8HP).",
+                "Heat pump: Sistema frío <br /> calor. Unidad exterior <br /> dividida para instalación <br /> interior (8HP)."
+            ],
+            [
+                "Heat recovery: Sistema <br /> frío calor simultaneo (8- <br /> 60HP).",
+                "Heat pump: Sistema frío <br /> calor por bomba (4-9HP).",
+                "Heat pump: Sistema frío <br /> calor por bomba (8-60hp).",
+                "Manejadoras de aire DX <br /> (UTA) (8-54HP)."
+            ]
+        ],
+        "h3": [
+            [
+                "VRVH",
+                "VRVQ",
+                "VRV Invisible",
+                "Hidrobox"
+            ],
+            [
+                "VRVR",
+                "VRV Small",
+                "Altherma",
+                "Unidad de tratamiento"
+            ]
+        ]
+    },
+    {
+        "section": "3",
+        "concept": "Departamento de servicios",
+        "title": "Estamos para ayudarte",
+        "slogan": "Brindamos servicios de soporte técnico<br />a personal especializado y usuarios finales",
+        "img": "../../../public/img/home/maxima-eficiencia.jpg",
+        "details": [
+            [
+                "Servicios generales.",
+                "Repuestos.",
+                "Garantía oficial."
+            ],
+            [
+                "Servicios de mantenimiento.",
+                "Errores decódigo.",
+                "Preguntas frecuentes."
+            ]
+        ]
+    }
+]

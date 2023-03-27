@@ -9,7 +9,7 @@ function Bodyapp() {
     <>
       <Carrousel/>
       <Bodyappsection dataSection={"1"}/>
-      <Bodyappsection2/>
+      <Bodyappsection2 dataSection={"2"}/>
       <Bodyappsection dataSection={"3"}/>
     </>
   )
